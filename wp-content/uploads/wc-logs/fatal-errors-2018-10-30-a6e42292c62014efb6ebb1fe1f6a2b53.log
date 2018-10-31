@@ -1,0 +1,8 @@
+2018-10-30T14:09:02+00:00 CRITICAL Call to undefined method wpdb::esc_like() in C:\wamp64\www\wp-plugin\wp-content\plugins\woocommerce\includes\wc-core-functions.php on line 1974
+
+2018-10-30T14:09:08+00:00 CRITICAL Call to undefined method wpdb::esc_like() in C:\wamp64\www\wp-plugin\wp-content\plugins\woocommerce\includes\wc-core-functions.php on line 1974
+
+2018-10-30T14:09:19+00:00 CRITICAL Call to undefined method wpdb::esc_like() in C:\wamp64\www\wp-plugin\wp-content\plugins\woocommerce\includes\wc-core-functions.php on line 1974
+
+2018-10-30T14:09:24+00:00 CRITICAL Call to undefined method wpdb::esc_like() in C:\wamp64\www\wp-plugin\wp-content\plugins\woocommerce\includes\wc-core-functions.php on line 1974
+
